@@ -97,5 +97,5 @@ while not done:
 env.close()
 ```
 # 运行图片
-![主页面图片](1.jpg)
+![主页面图片](1.png)
 

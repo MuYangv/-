@@ -1,4 +1,4 @@
-# -
+# 代码如下
 人工智能导论代码
 ```python
 import numpy as np

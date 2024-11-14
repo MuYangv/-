@@ -1,5 +1,6 @@
 # -
 人工智能导论代码
+```python
 import numpy as np
 import gym
 import matplotlib.pyplot as plt
